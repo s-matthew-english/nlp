@@ -1,0 +1,16 @@
+INSTUPcount_cfg_freq
+/home/matthias/Documents/Courses/Coursera/pirates/area52/original/count_cfg_freq.py
+INFOS:&&3|1|2|0&&3|3|2|0&&1|4|2|0&&2|5|2|4&&3|6|2|7&&3|8|2|7&&3|9|2|7&&2|10|2|4&&2|11|2|4&&2|12|2|0&&2|13|2|0
+nonterm=9
+Counts=4
+usage=13
+show=10
+count=11
+main=12
+unary=6
+count_cfg_freq=2
+binary=8
+__author__=1
+__init__=5
+__date__=3
+Counts.__init__=7

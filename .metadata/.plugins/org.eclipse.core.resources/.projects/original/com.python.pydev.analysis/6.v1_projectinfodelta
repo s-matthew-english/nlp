@@ -1,0 +1,12 @@
+INSTUPpretty_print_tree
+/home/matthias/Documents/Courses/Coursera/pirates/area52/original/pretty_print_tree.py
+INFOS:&&1|1|2|0&&2|3|2|1&&3|4|2|5&&2|6|2|1&&2|7|2|0&&2|2|2|0&&2|8|2|0&&2|9|2|0
+Node.__init__=5
+format_tree=7
+Node=1
+usage=9
+pretty_print_tree=2
+name=4
+__repr__=6
+main=8
+__init__=3

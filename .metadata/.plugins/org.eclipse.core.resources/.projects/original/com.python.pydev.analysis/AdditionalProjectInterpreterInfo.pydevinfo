@@ -1,0 +1,83 @@
+-- VERSION_4
+-- START DISKCACHE
+/home/matthias/Documents/Courses/Coursera/pirates/area52/.metadata/.plugins/org.eclipse.core.resources/.projects/original/com.python.pydev.analysis/v2_indexcache
+submit|1413801232000|/home/matthias/Documents/Courses/Coursera/pirates/area52/original/submit.py
+count_cfg_freq|1413801232000|/home/matthias/Documents/Courses/Coursera/pirates/area52/original/count_cfg_freq.py
+pretty_print_tree|1413801232000|/home/matthias/Documents/Courses/Coursera/pirates/area52/original/pretty_print_tree.py
+eval_parser|1413801232000|/home/matthias/Documents/Courses/Coursera/pirates/area52/original/eval_parser.py
+-- END DISKCACHE
+-- START DICTIONARY
+16
+14=ParseEvaluator.__init__
+10=Counts
+3=submit
+13=Node.__init__
+9=Node
+4=pretty_print_tree
+16=NullDevice
+6=TreeOperations
+12=FScore.__init__
+8=ParseEvaluator
+1=count_cfg_freq
+5=ParseError
+15=ParseError.__init__
+2=eval_parser
+7=FScore
+11=Counts.__init__
+-- END DICTIONARY
+-- START TREE 1
+30
+__a|1|__author__!11@
+__d|1|__date__!11@
+_co|1|_convert_to_spans!18@
+_fr|1|_fringe!18@
+_re|1|_remove_vertical_markovization!18@
+_we|1|_well_formed!18@
+bas|1|basicPrompt!26@
+cha|2|challengeResponse!26@challenge_url!26@
+che|1|check_well_formed!18@
+cou|1|Counts!9@
+for|1|format_tree!34@
+fri|1|fringe!18@
+fsc|1|FScore!17@
+get|1|getChallenge!26@
+log|1|loginPrompt!26@
+mai|3|main!34@main!10@main!18@
+nod|1|Node!33@
+nul|1|NullDevice!25@
+out|3|output_row!18@output!26@output_header!18@
+par|5|partIds!27@partPrompt!26@partFriendlyNames!27@ParseEvaluator!17@ParseError!17@
+pr|1|pr!19@
+pre|2|precision!18@pretty_print_tree!34@
+rec|1|recall!18@
+sel|1|self!19@
+sou|1|source!26@
+sub|3|submit_url!26@submit!26@submitSolution!26@
+to_|1|to_spans!18@
+tre|1|TreeOperations!17@
+url|1|URL!27@
+usa|2|usage!34@usage!10@
+-- END TREE
+-- START TREE 2
+20
+__i|6|__init__!5&18@__init__!6&18@__init__!7&18@__init__!8&18@__init__!9&34@__init__!10&10@
+__r|1|__repr__!9&34@
+__s|1|__str__!5&18@
+bin|1|binary!11&11@
+com|1|compute_fscore!8&18@
+cor|1|correct!12&19@
+cou|1|count!10&10@
+fsc|1|fscore!7&18@
+gol|1|gold!12&19@
+inc|1|increment!7&18@
+nam|1|name!13&35@
+non|1|nonterm!11&11@
+nt_|1|nt_score!14&19@
+out|1|output!8&18@
+sho|1|show!10&10@
+tes|1|test!12&19@
+tot|1|total_score!14&19@
+una|1|unary!11&11@
+val|1|value!15&19@
+wri|1|write!16&26@
+-- END TREE
